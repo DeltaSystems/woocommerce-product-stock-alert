@@ -1,5 +1,10 @@
 == Changelog ==
 -------------------------------------------------------------------------------------------------------------------
+= 20.9.29 - 2020-09-29 =
+* Added desperately needed logging.
+* Added tracking of data that is deleted even if no emails go out.
+* Buggy Garbage. Replace this plugin!
+
 = 1.7.0 - 2020-08-28 =
 * Fixed - Alert box display for backorder products also.
 * Fixed - Product - Variations name added for variable product in export file.

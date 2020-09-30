@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: WooCommerce Product Stock Alert
+ * Plugin Name: WooCommerce Product Stock Alert - With Machete Specialists Tweaks
  * Plugin URI: http://wc-marketplace.com/
  * Description: Woocommerce plugin using which a customer can subscribe for interest on an out of stock product. When the product becomes available, subscribed customer will get an alert email.
- * Author: WC Marketplace
- * Version: 1.7.0
+ * Author: WC Marketplace (Machete Specialists enhanced)
+ * Version: 20.9.29
  * Requires at least: 4.4
  * Tested up to: 5.5
  * WC requires at least: 3.0
