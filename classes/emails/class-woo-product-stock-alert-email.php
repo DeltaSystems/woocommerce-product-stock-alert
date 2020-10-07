@@ -55,7 +55,7 @@ class WC_Email_Stock_Alert extends WC_Email {
 		if ( ! $this->is_enabled() || ! $this->get_recipient() ) {
 			return;
 		}
-        doWooStockAlertLOG('emailing ' . $recipient . ' RE: Product ID=' . $product_id);
+        doWooStockAlertLOG('emailing ' . $recipient . ' RE: Product ID=' . $product_id . ' ; Product now back in stock');
 		$this->send( $this->get_recipient(), $this->get_subject(), $this->get_content(), $this->get_headers(), $this->get_attachments() );
 	}
 	
